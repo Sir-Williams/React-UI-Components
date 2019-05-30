@@ -1,1 +1,29 @@
 /* All styles for your header Components live here */
+
+.headerContainer{
+    display: flex;
+    margin: 20px;
+
+}
+
+.headerTitle{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+p{
+    color: rgb(126, 125, 125);
+    margin-left: 20px;
+    font-size: 15px;
+    
+}
+
+h1{
+    font-size: 20px;
+}
+
+.title{
+    margin-left: 20px;
+}
+
