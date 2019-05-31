@@ -1,1 +1,27 @@
 /* All styles for your Card Components live here */
+.cardContainer{
+    margin: 10px 70px;
+    display: flex;
+    flex-direction: column;
+}
+
+.bannerImg{
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 0;
+    margin-bottom: -5px;
+}
+
+.cardContent{
+    margin: 0;
+    border: 1px solid lightgrey;
+    border-radius: 0 0 10px 10px;
+}
+
+.bannerTitle{
+    margin: 0 20px;
+    padding-bottom: 0;
+}
+
+.bannerP{
+    color: black;
+}

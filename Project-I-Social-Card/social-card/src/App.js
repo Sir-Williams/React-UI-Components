@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className="body">
       <HeaderContainer />
-      <CardContainer />
+      <CardContainer/>
     </div>
     // <div>
     //   <h3>Welcome to React Social Card!</h3>
@@ -26,5 +26,7 @@ const App = () => {
     // </div>
   );
 };
+
+
 
 export default App;
