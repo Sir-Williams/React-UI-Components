@@ -1,9 +1,5 @@
 export const numPadNumbers = [
     {
-        "number": "zero",
-        "text": 0
-    },
-    {
         "number": "one",
         "text": 1
     },
